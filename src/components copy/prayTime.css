@@ -1,0 +1,25 @@
+.pray,.praytime,.timeLeft{
+    color: white;
+    font-family: IBM Plex Sans Arabic;
+    
+    
+}
+.pray{
+    font-size: 4rem
+}
+.praytime{
+    font-size: 2.5rem;
+    /* margin-left: 19%; */
+    /* position: absolute;
+    bottom: 10%; */
+    
+}
+.timeLeft{
+    font-size: 1.6rem;
+    /* margin-left: 29%; */
+    color: #FF9F1C;
+    
+}
+h3, h2{
+    margin-top: 0;
+}

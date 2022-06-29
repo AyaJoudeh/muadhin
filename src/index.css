@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+body{
+
+  background-image: url("imgs/background.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+  background-color: #131E1E;
+  
+
+}
+.prayytime{
+  position:absolute;
+  left: 40%;
+  top: 60%;
+}
+.Weatherr{
+  position: absolute;
+  left:80%;
+  bottom: 70%;
+  
+}
+.SunPhasee{
+  position:absolute;
+  left:70%;
+  top:70%;
+}

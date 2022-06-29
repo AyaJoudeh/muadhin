@@ -1,0 +1,49 @@
+
+.weatherDes,.tempC,.tempF,.city{
+    display: inline;
+    font-family: IBMPlexSansArabic-Regular;
+    margin-right: 20%;
+}
+
+.weatherDes{
+    font-family: IBMPlexSansArabic-Regular;
+
+}
+ .wholeDes{
+    position: relative;
+    left:50%;
+    bottom:30px;
+    margin-left: 40%
+    
+}
+.wholeSym{
+position: relative;
+bottom: 100px;
+right: 60%;
+}
+
+
+.Moonsym{
+    position:absolute;
+    top:70%
+}
+.MoonDes{
+    position:absolute;
+    top:70%;
+    /* top:7wh; */
+    left:9%;
+}
+.sunSym{
+     position:absolute;
+    /* left:100%;
+    top:30% */ 
+    top:75%;
+    left:90%
+}
+.sunDes{
+    color:#72A0A0;
+    font-size: 1.2rem;
+    position: absolute;
+    top: 77%;
+    left:63%
+}
